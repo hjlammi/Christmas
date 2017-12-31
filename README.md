@@ -1,5 +1,5 @@
 # Christmas
-I wanted to make a Christmas greeting to send to my family. The application uses THREE.js to render spinning Christmas ball ornaments and falling snow.
+I wanted to make a Christmas greeting to send to my family. The application uses THREE.js to render spinning 3D Christmas ball ornaments and falling snow. My hubby introduced me to THREE.js and explained to me 3D concepts as I was not familiar with them.
 
 ## Address
 
